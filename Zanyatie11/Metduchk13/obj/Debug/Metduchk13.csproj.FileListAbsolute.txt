@@ -1,0 +1,7 @@
+D:\Projects\Zanyatie11\Metduchk13\bin\Debug\Metduchk13.exe.config
+D:\Projects\Zanyatie11\Metduchk13\bin\Debug\Metduchk13.exe
+D:\Projects\Zanyatie11\Metduchk13\bin\Debug\Metduchk13.pdb
+D:\Projects\Zanyatie11\Metduchk13\obj\Debug\Metduchk13.csproj.AssemblyReference.cache
+D:\Projects\Zanyatie11\Metduchk13\obj\Debug\Metduchk13.csproj.CoreCompileInputs.cache
+D:\Projects\Zanyatie11\Metduchk13\obj\Debug\Metduchk13.exe
+D:\Projects\Zanyatie11\Metduchk13\obj\Debug\Metduchk13.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodichka12", "Metodichka12\Metodichka12.csproj", "{9CD3D61A-1C8B-4EC0-AAD4-DBEE5CEDD4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metduchk13", "Metduchk13\Metduchk13.csproj", "{245C08D7-9500-4C28-B959-97F7F606AAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD3D61A-1C8B-4EC0-AAD4-DBEE5CEDD4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD3D61A-1C8B-4EC0-AAD4-DBEE5CEDD4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD3D61A-1C8B-4EC0-AAD4-DBEE5CEDD4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD3D61A-1C8B-4EC0-AAD4-DBEE5CEDD4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245C08D7-9500-4C28-B959-97F7F606AAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245C08D7-9500-4C28-B959-97F7F606AAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245C08D7-9500-4C28-B959-97F7F606AAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245C08D7-9500-4C28-B959-97F7F606AAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEC522D-F3DF-483C-9661-6323CBDFAD07}
+	EndGlobalSection
+EndGlobal

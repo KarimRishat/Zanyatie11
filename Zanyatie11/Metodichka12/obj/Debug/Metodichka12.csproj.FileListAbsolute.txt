@@ -1,0 +1,7 @@
+D:\Projects\Zanyatie11\Metodichka12\bin\Debug\Metodichka12.exe.config
+D:\Projects\Zanyatie11\Metodichka12\bin\Debug\Metodichka12.exe
+D:\Projects\Zanyatie11\Metodichka12\bin\Debug\Metodichka12.pdb
+D:\Projects\Zanyatie11\Metodichka12\obj\Debug\Metodichka12.csproj.AssemblyReference.cache
+D:\Projects\Zanyatie11\Metodichka12\obj\Debug\Metodichka12.csproj.CoreCompileInputs.cache
+D:\Projects\Zanyatie11\Metodichka12\obj\Debug\Metodichka12.exe
+D:\Projects\Zanyatie11\Metodichka12\obj\Debug\Metodichka12.pdb
